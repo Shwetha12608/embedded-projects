@@ -47,6 +47,7 @@ Want to see the full code? It's clean, short, and loop-based!
 
 > *(Add video or gif here if available)*  
 > A short clip showing button-LED sequence gameplay.
+> https://github.com/Shwetha12608/embedded-projects/blob/main/Arduino/Memory_Test/demo_vedio.mp4
 
 ## 💡 Why I Made This
 
