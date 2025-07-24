@@ -26,7 +26,7 @@ Have you ever played the classic **Simon Says** game? This is my attempt to brin
 - Buzzer gives feedback for correct and wrong attempts.
 
 Want to see the full code? It's clean, short, and loop-based!  
-👉 Check the [`.ino` file](./game_simon_says.ino)
+👉 Check the https://github.com/Shwetha12608/embedded-projects/blob/main/Arduino/Memory_Test/code
 
 ## 👀 What You’ll Learn
 
