@@ -1,2 +1,2 @@
 # embedded-projects
-My beginner to advanced embedded system projects
+My beginner embedded system projects
