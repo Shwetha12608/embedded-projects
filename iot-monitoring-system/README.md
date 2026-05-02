@@ -28,3 +28,11 @@ Python Client → MQTT Broker → ESP32 (Control)
 ## Results
 - Latency: ~1–2 seconds
 - Stable communication with 5–15 sec updates
+
+- VS Code
+  
+  <img width="670" height="107" alt="Screenshot 2026-05-02 131309" src="https://github.com/user-attachments/assets/34483288-75fb-43d8-8d7a-e68c8f25e7a4" />
+  
+ - Wokwi
+   
+   <img width="532" height="123" alt="Screenshot 2026-05-02 131738" src="https://github.com/user-attachments/assets/5298e449-aca0-4710-b9ed-b82a60311cb5" />
